@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "16d7d789b673a783067d2577c50762f1",
+    "content-hash": "6e80ec82ecbfbf97f0cf243069df6835",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -986,16 +986,16 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "5.3",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "5.3"
+                "reference": "5.3.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3",
-                "reference": "5.3",
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.1",
+                "reference": "5.3.1",
                 "shasum": null
             },
             "require": {
@@ -1020,7 +1020,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2019-11-12T20:34:22+00:00"
+            "time": "2019-12-12T20:52:07+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -1579,7 +1579,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2019-11-29T17:22:08+00:00"
+            "time": "2019-12-02T13:03:15+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
